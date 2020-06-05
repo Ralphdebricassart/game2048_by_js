@@ -1,0 +1,79 @@
+body {
+    background-color: beige;
+    height: 1024px;
+    width: 1024px;
+}
+
+#table2048 {
+    position: fixed;
+    z-index: 99;
+    bottom: 30%;
+    left: 30%;
+    display: block;
+    width: 408px;
+    height: 408px;
+}
+
+#table2048>tr {
+    margin: 0px;
+    padding: 0px;
+}
+
+#table2048 td {
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 36px;
+    width: 100px;
+    height: 100px;
+}
+
+#tdz {
+    background-color: #f0fcff;
+}
+
+#tdx {
+    background-color: #888e7e;
+}
+
+#tdc {
+    background-color: #8b968d;
+}
+
+#tdv {
+    background-color: #767c6b;
+}
+
+#tdb {
+    background-color: #38b48b;
+}
+
+#tdn {
+    background-color: #00a497;
+}
+
+#tdm {
+    background-color: #43676b;
+}
+
+#tda {
+    background-color: #cca6bf;
+}
+
+#tds {
+    background-color: #895b8a;
+}
+
+#tdd {
+    background-color: #7a4171;
+}
+
+#tdf {
+    background-color: #bf242a;
+}
+
+#tdg {
+    background-color: #000000;
+}
